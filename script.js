@@ -6,5 +6,3 @@ function fibonacci(num) {
   }
 }
 
-
-module.exports = fibonacci;
